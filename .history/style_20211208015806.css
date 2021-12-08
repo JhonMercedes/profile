@@ -1,0 +1,11 @@
+body {
+    background: aqua;
+}
+
+.container, .container2, .container3 {
+    text-align: center
+}
+
+.container2 {
+    background-color: rgb(65, 65, 128);
+}
