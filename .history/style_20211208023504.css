@@ -22,7 +22,7 @@ body {
 
 .social-btn {
 	cursor: pointer;
-	height: 100px;
+	height: 50px;
 	width: 50px;
 	font-family: 'Titillium Web', sans-serif;
 	color: #333;
@@ -41,14 +41,16 @@ body {
 }
 
 .social-btn:hover {
-	width: 200px;
+	width: 150px;
 	border-radius: 5px;
 }
 
 .social-btn:hover span {
-	padding: 5px;
+	padding: 2px;
 	width: max-content;
 }
+
+
 
 #linkedin svg {
 	fill: #0e76a8;
